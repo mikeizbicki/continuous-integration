@@ -1,4 +1,4 @@
-# The Fraction class ![](https://api.travis-ci.org/abarker21/fraction.svg?branch=master)
+# The Fraction class ![](https://api.travis-ci.com/abarker21/fraction.svg?branch=master)
 
 This was modified in class.
 
