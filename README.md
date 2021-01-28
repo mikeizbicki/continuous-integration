@@ -114,7 +114,7 @@ This means that you are passing all the tests.
 
 **NOTE:**
 On all your assignments in this class,
-you will lost 1 point for each test case that is not passing.
+you will lose 1 point for each test case that is not passing.
 
 ### Running the linter
 
