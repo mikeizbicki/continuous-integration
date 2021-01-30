@@ -68,6 +68,7 @@ Expected:
 Got nothing
 **********************************************************************
 File "/home/user/proj/cmc-csci046/week_00/homework/Fixme.py", line 36, in Fixme.triangular
+
 Failed example:
     triangular(3)
 Expected:
@@ -114,7 +115,7 @@ This means that you are passing all the tests.
 
 **NOTE:**
 On all your assignments in this class,
-you will lost 1 point for each test case that is not passing.
+you will lose 1 point for each test case that is not passing.
 
 ### Running the linter
 
@@ -174,7 +175,7 @@ If you see any red builds, then something went wrong, and you need to fix that p
 
 ### The CI badge
 
-Most repos that use CI place a *badge* in their README file that indicatees the status of the most recent build.
+Most repos that use CI place a *badge* in their README file that indicates the status of the most recent build.
 A green badge demonstrates that the repo passes all test cases,
 and therefore should instill confidence in potential users of the software that the software is high quality.
 
@@ -202,7 +203,7 @@ it guarantees full credit on the assignment.
 
 ## Submission
 
-To submit this assignment, you will past the URL to your github repo into sakai.
+To submit this assignment, you will paste the URL to your github repo into sakai.
 The URL should be of the format
 ```
 https://github.com/mikeizbicki/continuous-integration
