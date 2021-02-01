@@ -1,5 +1,4 @@
-# Continuous Integration ![https://github.com/justinesters/continuous-integration/actions?query=workflow%3Atests](https://github.com/JustinEsters/continuous-integration/workflows/tests/badge.svg)
-
+# Continuous Integration ![https://github.com/JustinEsters/continuous-integration/actions?query=workflow%3Atests](https://github.com/JustinEsters/continuous-integration/workflows/tests/badge.svg) 
 *This is the first homework assignment for [Claremont McKenna's CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course.*
 
 Continuous Integration (CI) is a technique for proving that your code is correct.
