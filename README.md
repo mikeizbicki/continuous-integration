@@ -27,7 +27,7 @@ There is very little coding in this assignment, and the purpose is to ensure tha
 
 ## Instructions
 
-Fork this repo, and clone your fork onto the lambda server.
+Fork this repo, clone your fork onto the lambda server.
 
 `cd` into your cloned repo and run the `ls -a` command.
 You should see many files as described in the following table.
