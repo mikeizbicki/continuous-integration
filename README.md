@@ -39,7 +39,7 @@ You should see many files as described in the following table.
 | `.git` | contains all the information about the git repo; it is created when running `git init` and should never be modified directly |
 | `.github` | contains the instructions for the CI tests; you will not need to edit these files for this class, but you can see https://docs.github.com/en/actions for more info |
 | `.gitignore` | tells git which files should not be added into the repo; you will not need to edit these files for this class, but you can see https://git-scm.com/docs/gitignore for more info |
-| `README.md` | contains the description of the project your currently reading |
+| `README.md` | contains the description of the project you're currently reading |
 | `Fixme.py` | contains the project's python code that you will have to fix |
 
 ### Running the test cases
@@ -214,7 +214,7 @@ You should see a green badge instead of a red badge if you made all of the chang
 
 ## Submission
 
-To submit this assignment, you will paste the URL to your github repo into sakai.
+To submit this assignment, you will paste the URL to your github repo into canvas.
 The URL should be of the format
 ```
 https://github.com/mikeizbicki/continuous-integration
@@ -224,4 +224,4 @@ but with your github username instead of mine.
 > **IMPORTANT:**
 >
 > It is not enough in this class to simply push your final code onto github.
-> The grader will not know to grade your code unless you also submit it into sakai.
+> The grader will not know to grade your code unless you also submit it into canvas.
