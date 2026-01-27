@@ -214,7 +214,8 @@ You should see a green badge instead of a red badge if you made all of the chang
 
 ## Submission
 
-To submit this assignment, you will paste the URL to your github repo into sakai.
+To submit this assignment, you will paste the URL to your github repo into canvas
+.
 The URL should be of the format
 ```
 https://github.com/mikeizbicki/continuous-integration
@@ -224,4 +225,4 @@ but with your github username instead of mine.
 > **IMPORTANT:**
 >
 > It is not enough in this class to simply push your final code onto github.
-> The grader will not know to grade your code unless you also submit it into sakai.
+> The grader will not know to grade your code unless you also submit it into canvas.
