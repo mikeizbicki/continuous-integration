@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/linco4d/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
@@ -182,7 +182,7 @@ If you see any red builds, then something went wrong, and you need to fix that p
 
 ### The CI badge
 
-Most repos that use CI place a *badge* in their README file that indicatees the status of the most recent build.
+Most repos that use CI place a *badge* in their README file that indicates the status of the most recent build.
 A green badge demonstrates that the repo passes all test cases,
 and therefore should instill confidence in potential users of the software that the software is high quality.
 
