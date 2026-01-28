@@ -174,7 +174,7 @@ $ git add Fixme.py
 $ git commit
 $ git push origin master
 ```
-As soon as you run the push command, github will automatically start running your code against 2 different versions of python (versions 3.8, and 3.9).
+As soon as you run the push command, github will automatically start running your code against 2 different versions of python (versions 3.8 and 3.9).
 Click the "actions" button at the top of your forked project webpage to see the results.
 
 You should see 2 green "builds" indicating that your program passed all test cases for each python version tested.
